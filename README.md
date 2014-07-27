@@ -45,6 +45,7 @@ right children of said node must be true, otherwise the node will evaluate to fa
 same is true with ^ (and) nodes, except that both children must evaluate to positive. 
 Lastly the child of a ! (not) Node must be false in order for said node to evaluate to 
 true. A preferable output for the above tree would be:
+                                             
                                               v  
 							  		       /     \
 			        	 				  /	      \
